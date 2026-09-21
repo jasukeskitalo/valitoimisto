@@ -1,0 +1,34 @@
+KUVAT-KANSIO
+============
+
+Täällä ovat "Tehdyt työt" -osion korttikuvat. Neljä tiedostoa,
+jotka references.css hakee tarkalleen näillä nimillä:
+
+  rakentaminen.jpg        -> Remontointi ja korjausrakentaminen
+  arboristityo.jpg        -> Turvallista puiden hoitoa
+  viherrakentaminen.jpg   -> Piha kokonaisuutena
+  tyovoimavuokraus.jpg    -> Osaajia työmaalle
+
+Nykyiset kuvat on leikattu yhdestä 1536x1024 kollaasista:
+neljä ruutua eroteltiin, valkoiset saumat ja kuviin poltetut
+tekstipalkit rajattiin pois. Kortit piirtävät tekstit itse,
+joten kuvissa ei saa olla valmiita tekstejä.
+
+
+KUVAN VAIHTAMINEN OMAAN
+-----------------------
+Korvaa tiedosto samannimisellä. Vaatimukset:
+
+  Muoto:      vaakakuva, JPG
+  Koko:       noin 760-1200 px leveä
+  Tiedosto:   alle 400 kt
+  Sommittelu: tärkein asia ylä- tai keskiosassa. Kortin alareunaan
+              tulee tumma liukuväri tekstin taakse.
+  Nimi:       pienet kirjaimet, ei ääkkösiä, ei välilyöntejä
+
+Jos kuva puuttuu tai nimi on väärin, kortti näyttää vanhan
+värillisen liukuvärin. Sivu ei mene rikki.
+
+Pienentäminen Windowsin Paintilla:
+Avaa kuva -> Muuta kokoa -> Pikselit -> Vaakasuunta 1200
+-> Tallenna nimellä -> JPEG.
